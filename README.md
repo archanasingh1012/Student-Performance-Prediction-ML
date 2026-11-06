@@ -1,6 +1,11 @@
 # Explainable Student Academic Risk Prediction
 
-An M.Tech Data Science and Analytics project that compares machine-learning models for classifying student academic risk using behavioural and engagement features, and uses SHAP to interpret tree-based model predictions.
+An M.Tech Data Science and Analytics project that compares machine-learning models for classifying student academic risk using behavioural and engagement features. It also uses SHAP to interpret predictions from tree-based models.
+## Project objective
+
+The objective is to analyse student behavioural and engagement data, develop machine-learning classification models, compare their performance, and interpret model predictions using Explainable AI (SHAP).
+
+The project aims to identify important factors associated with academic risk and support transparent, data-driven student analytics.
 
 ## 1. Dataset setup
 
