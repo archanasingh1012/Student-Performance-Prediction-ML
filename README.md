@@ -102,3 +102,31 @@ Record the dataset source/version, date accessed, feature definitions, label-gen
 ## 8. GitHub
 
 Do not upload `.venv`, generated model files, or private student data. The dataset is ignored by default. Upload it only if its licence explicitly permits redistribution and it contains no confidential personal information.
+
+## Streamlit Dashboard
+
+The project includes an interactive Streamlit dashboard
+for predicting student academic risk.
+
+### Dashboard Features
+- Student information input form
+- Academic risk prediction
+- Prediction probability visualization
+- Interactive charts and tables
+
+### How to Run the Dashboard
+
+1. Install the required libraries:
+
+   pip install -r requirements.txt
+
+2. Start the Streamlit application:
+
+   streamlit run app.py
+
+3. Open the local URL displayed in the terminal.
+
+### Machine Learning Model
+
+The dashboard uses the best-performing trained model
+saved in the models folder.
