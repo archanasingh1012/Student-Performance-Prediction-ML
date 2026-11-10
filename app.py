@@ -139,7 +139,7 @@ if submitted:
                 probability_df.style.format(
                     {"Probability": "{:.2%}"}
                 ),
-                use_container_width=True
+                width="stretch"
             )
 
     except Exception as e:
