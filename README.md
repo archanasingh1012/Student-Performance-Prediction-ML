@@ -130,3 +130,35 @@ for predicting student academic risk.
 
 The dashboard uses the best-performing trained model
 saved in the models folder.
+## Running the Streamlit Application
+
+Follow these steps to run the project locally.
+
+1. Install the required libraries:
+
+   pip install -r requirements.txt
+
+2. Run the Streamlit application:
+
+   streamlit run app.py
+
+3. Open the local URL displayed in the terminal.
+
+## Project Features
+
+- Student academic risk prediction.
+- Machine learning model comparison.
+- Random Forest classification.
+- Data preprocessing and exploratory data analysis.
+- Model evaluation and performance metrics.
+- Interactive Streamlit dashboard.
+- Explainable machine learning.
+
+## Technologies Used
+
+- Python
+- Pandas and NumPy
+- Scikit-learn
+- Streamlit
+- Matplotlib and Seaborn
+- Joblib
