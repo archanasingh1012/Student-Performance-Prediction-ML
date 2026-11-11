@@ -7,7 +7,7 @@ The objective is to analyse student behavioural and engagement data, develop mac
 
 The project aims to identify important factors associated with academic risk and support transparent, data-driven student analytics.
 
-## 1. Dataset setup
+## 1. Dataset setupc:
 
 Place the dataset file here:
 
